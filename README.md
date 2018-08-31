@@ -1,2 +1,2 @@
 # Hello-World
-lets play a game
+lets make a game
